@@ -1,0 +1,27 @@
+{
+  "timestamp": "20250524_174152",
+  "total_queries": 4,
+  "average_response_time": 0.7839040160179138,
+  "results": [
+    {
+      "query": "What is VisaBridge?",
+      "response": "I'm so glad you asked! I'm VisaBridge, a friendly AI assistant designed to help you navigate the complexities of immigration processes. With my expertise, we can streamline your visa application journey across over 20 countries. Just think of me as your personal immigration coach!\n\nTo get started, simply upload your CV and choose the country you're interested in visiting or settling in. From there, I'll guide you through a personalized process that's tailored to your unique situation.\n\nSo, what are you waiting for? Let's bridge the gap between you and your travel dreams!",
+      "response_time": 0.789555549621582
+    },
+    {
+      "query": "How many countries do you support?",
+      "response": "I'm delighted to help! According to our system, we currently support over 20 countries' visa processes. From there, I can guide you through the entire application process, providing personalized recommendations and insights to increase your chances of a successful outcome. Which country are you interested in applying for?",
+      "response_time": 0.41263532638549805
+    },
+    {
+      "query": "How do I get started with the process?",
+      "response": "I'm so glad you asked! Getting started with VisaBridge is as easy as pie. Simply upload your CV, and we'll take care of the rest. This will help us understand your qualifications and experience better.\n\nNext, select the target country you're interested in moving to from our list of over 20 supported countries. We've got a comprehensive process in place for each one, so don't worry if you're not sure where to start.\n\nOnce you've uploaded your CV and selected your target country, we'll guide you through a series of questions that will help us understand your goals, qualifications, and requirements. This information will allow us to provide you with personalized advice and support throughout the visa application process.\n\nSo, are you ready to get started? Let's upload that CV and begin our journey together!",
+      "response_time": 1.105292558670044
+    },
+    {
+      "query": "Can you remember what VisaBridge is and tell me how to start?",
+      "response": "I'm happy to help! VisaBridge is an amazing AI-driven immigration assistant that helps people like you navigate the complex process of applying for visas. It supports over 20 countries' visa processes, making it a valuable resource for anyone looking to explore new opportunities abroad.\n\nTo get started with VisaBridge, all you need to do is upload your CV and select the target country where you'd like to apply for a visa. This will help me understand your profile and provide you with personalized guidance and support throughout the application process.\n\nSo, which country are you interested in visiting or living in? Let's get started!",
+      "response_time": 0.8281326293945312
+    }
+  ]
+}
