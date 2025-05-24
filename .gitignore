@@ -37,4 +37,4 @@ evaluation_logs_*.json
 
 # Misc
 .DS_Store
-*.log 
+*.log
